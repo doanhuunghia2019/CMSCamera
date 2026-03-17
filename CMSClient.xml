@@ -27,7 +27,7 @@
     <CusCRC>-1198372910</CusCRC>
     <WsID>KqF1GGbg87U=</WsID>
     <WsCRC>1454294126</WsCRC>
-    <Feature>28041bc0a4fb545de389a97b56047a85</Feature>
+    <Feature>4dacc7208e9e4f6cfd8d42b340452328</Feature>
     <SptNReg>1</SptNReg>
     <Binded>1</Binded>
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
@@ -63,5 +63,5 @@
     <LoginType>0</LoginType>
     <RecvPushMesg>1</RecvPushMesg>
     <TipsForMesg>0</TipsForMesg>
-    <shareMesgId>1887</shareMesgId>
+    <shareMesgId>1</shareMesgId>
 </Config>
